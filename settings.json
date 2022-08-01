@@ -1,0 +1,11 @@
+{
+    "DATA_DIR": "./PetImages",
+    "CATEGORIES": ["Dog", "Cat"],
+    "IMG_SIZE": 80,
+
+    "FEATURES_FILE": "features.pickle",
+    "LABELS_FILE": "labels.pickle",
+
+    "CONV_LAYERS": [1, 2, 3],
+    "DENSE_LAYERS": [0, 1, 2]
+}
